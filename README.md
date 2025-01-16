@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Flutter Assignment
 
 Welcome to the **Flutter Assignment** project! 🚀 This repository contains a Flutter application that demonstrates user authentication with Firebase, a simple counter functionality, and a clean user interface. 🌟
@@ -100,4 +99,3 @@ Contributions are welcome! 🙌 Feel free to submit a pull request or report iss
 ---
 
 **Happy coding!** 🥳✨
-```
