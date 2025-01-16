@@ -58,7 +58,7 @@ class _MainScreenState extends State<MainScreen> {
               Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text('Counter Value:', style: TextStyle(fontSize: 24)),
+                    Text('Counter Value: ', style: TextStyle(fontSize: 48)),
                     Text('$counter', style: const TextStyle(
                         fontSize: 48, fontWeight: FontWeight.bold)),
                   ],
