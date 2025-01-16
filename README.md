@@ -71,14 +71,14 @@ Ensure you have set up a Firebase project and added the `google-services.json` (
 ## 📂 Project Structure
 
 
-flutter_assignment/
-├── lib/
-│   ├── main.dart          # Entry point of the app
-│   ├── login_screen.dart  # Login screen
-│   ├── signup_screen.dart # Sign-up screen
-│   ├── main_screen.dart   # Main counter screen
-├── pubspec.yaml           # Project dependencies
-└── README.md              # Project documentation
+-  flutter_assignment/
+-  ├── lib/
+-  │   ├── main.dart          # Entry point of the app
+-  │   ├── login_screen.dart  # Login screen
+-  │   ├── signup_screen.dart # Sign-up screen
+-  │   ├── main_screen.dart   # Main counter screen
+-  ├── pubspec.yaml           # Project dependencies
+-  └── README.md              # Project documentation
 
 
 ---
